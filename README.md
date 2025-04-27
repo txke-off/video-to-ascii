@@ -18,7 +18,7 @@ Install [FFmpeg](https://ffmpeg.org/)
    ```bash
    python vid2png.py
    python png2ascii.py
-   python vid2audio.py #optional
+   python vid2audio.py #optional if audio isnt needed
    python play.py
 
 Any video is supported, but works best with black-and-white or high-contrast clips.
